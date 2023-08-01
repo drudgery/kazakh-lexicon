@@ -1,0 +1,2077 @@
+{
+  "lemmas": [
+    {
+      "lemmaId": 1,
+      "lemma": "2019",
+      "freq": 1,
+      "pos": "NUM",
+      "pos_finegrained": "num",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "2019",
+          "feats": "NumType=Ord",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 2,
+      "lemma": "жыл",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жылы",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        },
+        {
+          "formId": 2,
+          "form": "жылдың",
+          "feats": "Case=Gen",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 3,
+      "lemma": "27",
+      "freq": 1,
+      "pos": "NUM",
+      "pos_finegrained": "num",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "27",
+          "feats": "NumType=Ord",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 4,
+      "lemma": "желтоқсан",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "желтоқсанда",
+          "feats": "Case=Loc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 5,
+      "lemma": "президент",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Президент",
+          "feats": "Case=Nom",
+          "freq": 1
+        },
+        {
+          "formId": 2,
+          "form": "президенті",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 6,
+      "lemma": "\"",
+      "freq": 6,
+      "pos": "PUNCT",
+      "pos_finegrained": "sent",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "\"",
+          "feats": null,
+          "freq": 6
+        }
+      ]
+    },
+    {
+      "lemmaId": 7,
+      "lemma": "Қазақстан",
+      "freq": 2,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Қазақстан",
+          "feats": "Case=Nom",
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 8,
+      "lemma": "республика",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Республикасының",
+          "feats": "Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 9,
+      "lemma": "кейбір",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "кейбір",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 10,
+      "lemma": "заңнамалық",
+      "freq": 2,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "заңнамалық",
+          "feats": null,
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 11,
+      "lemma": "акт",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "актілеріне",
+          "feats": "Case=Ins|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        },
+        {
+          "formId": 2,
+          "form": "актілерге",
+          "feats": "Case=Dat|Number=Plur",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 12,
+      "lemma": "қылмыстық",
+      "freq": 2,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қылмыстық",
+          "feats": null,
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 13,
+      "lemma": ",",
+      "freq": 7,
+      "pos": "PUNCT",
+      "pos_finegrained": "cm",
+      "forms": [
+        {
+          "formId": 1,
+          "form": ",",
+          "feats": null,
+          "freq": 7
+        }
+      ]
+    },
+    {
+      "lemmaId": 14,
+      "lemma": "іс",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "іс",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 15,
+      "lemma": "жүр",
+      "freq": 2,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жүргізу",
+          "feats": "Case=Nom|VerbForm=Ger",
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 16,
+      "lemma": "заңнама",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "заңнамасын",
+          "feats": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 17,
+      "lemma": "жетілдір",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жетілдіру",
+          "feats": "Case=Nom|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 18,
+      "lemma": "және",
+      "freq": 2,
+      "pos": "CCONJ",
+      "pos_finegrained": "cnjcoo",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "және",
+          "feats": null,
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 19,
+      "lemma": "жеке",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жеке",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 20,
+      "lemma": "адам",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "адамның",
+          "feats": "Case=Gen",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 21,
+      "lemma": "құқық",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "құқықтарын",
+          "feats": "Case=Acc|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 22,
+      "lemma": "қорғау",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қорғауды",
+          "feats": "Case=Acc|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 23,
+      "lemma": "күшейт",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "күшейту",
+          "feats": "Case=Nom|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 24,
+      "lemma": "мәселе",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "мәселелері",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        },
+        {
+          "formId": 2,
+          "form": "мәселелері",
+          "feats": "Case=Nom|Number=Plur|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 25,
+      "lemma": "бойынша",
+      "freq": 3,
+      "pos": "ADP",
+      "pos_finegrained": "post",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "бойынша",
+          "feats": null,
+          "freq": 3
+        }
+      ]
+    },
+    {
+      "lemmaId": 26,
+      "lemma": "өзгеріс",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "өзгерістер",
+          "feats": "Case=Nom|Number=Plur",
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 27,
+      "lemma": "мен",
+      "freq": 4,
+      "pos": "CCONJ",
+      "pos_finegrained": "cnjcoo",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "мен",
+          "feats": null,
+          "freq": 4
+        }
+      ]
+    },
+    {
+      "lemmaId": 28,
+      "lemma": "толықтыру",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "толықтырулар",
+          "feats": "Case=Nom|Number=Plur",
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 29,
+      "lemma": "енгіз",
+      "freq": 3,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "енгізу",
+          "feats": "Case=Nom|VerbForm=Ger",
+          "freq": 2
+        },
+        {
+          "formId": 2,
+          "form": "енгізілді",
+          "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 30,
+      "lemma": "турал",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "туралы",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 31,
+      "lemma": "заң",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Заңға",
+          "feats": "Case=Dat",
+          "freq": 1
+        },
+        {
+          "formId": 2,
+          "form": "Заңы",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 32,
+      "lemma": "қол",
+      "freq": 1,
+      "pos": "X",
+      "pos_finegrained": "x",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қол",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 33,
+      "lemma": "қой",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қойды",
+          "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 34,
+      "lemma": ".",
+      "freq": 7,
+      "pos": "PUNCT",
+      "pos_finegrained": "sent",
+      "forms": [
+        {
+          "formId": 1,
+          "form": ".",
+          "feats": null,
+          "freq": 7
+        }
+      ]
+    },
+    {
+      "lemmaId": 35,
+      "lemma": "Кремль",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Кремль",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 36,
+      "lemma": "өкіл",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "өкілінің",
+          "feats": "Case=Gen|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        },
+        {
+          "formId": 2,
+          "form": "өкілі",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 37,
+      "lemma": "айтыу",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "айтуынша",
+          "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 38,
+      "lemma": "Беларусь",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Беларусь",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 39,
+      "lemma": "Александр",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Александр",
+          "feats": "Case=Nom|Gender=Masc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 40,
+      "lemma": "Лукашенко",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Лукашенко",
+          "feats": "Case=Nom|Gender=Masc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 41,
+      "lemma": "Путин",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Путинге",
+          "feats": "Case=Dat",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 42,
+      "lemma": "Минск",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Минск",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 43,
+      "lemma": "Ресей",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Ресей",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 44,
+      "lemma": "Украина",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Украина",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 45,
+      "lemma": "ара",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "арасындағы",
+          "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 46,
+      "lemma": "келіссөз",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "келіссөз",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 47,
+      "lemma": "проце",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "процесі",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 48,
+      "lemma": "үшін",
+      "freq": 1,
+      "pos": "ADP",
+      "pos_finegrained": "post",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "үшін",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 49,
+      "lemma": "барлық",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "барлық",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 50,
+      "lemma": "қажетті",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қажетті",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 51,
+      "lemma": "жағдай",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жағдай",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 52,
+      "lemma": "жаса",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жасауға",
+          "feats": "Case=Dat|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 53,
+      "lemma": "дайын",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "дайын",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 54,
+      "lemma": "е",
+      "freq": 1,
+      "pos": "AUX",
+      "pos_finegrained": "cop",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "екеніне",
+          "feats": "Case=Dat|Number[psor]=Plur,Sing|Person[psor]=3|Tense=Past|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 55,
+      "lemma": "сендір",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "сендірді",
+          "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 56,
+      "lemma": "де",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "деп",
+          "feats": "Aspect=Perf|VerbForm=Conv",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 57,
+      "lemma": "хабарла",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "хабарлайды",
+          "feats": "Tense=Past|VerbForm=Fin",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 58,
+      "lemma": "ТАСС",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "ТАСС",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 59,
+      "lemma": "биіктік",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Биіктігі",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 60,
+      "lemma": "-",
+      "freq": 2,
+      "pos": "PUNCT",
+      "pos_finegrained": "guio",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "-",
+          "feats": null,
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 61,
+      "lemma": "130",
+      "freq": 1,
+      "pos": "NUM",
+      "pos_finegrained": "num",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "130",
+          "feats": "NumType=Card",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 62,
+      "lemma": "метр",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "метр",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 63,
+      "lemma": "ол",
+      "freq": 1,
+      "pos": "PRON",
+      "pos_finegrained": "prn",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Оның",
+          "feats": "Case=Gen|Number=Sing|Person=3|PronType=Prs",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 64,
+      "lemma": "іш",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "ішінде",
+          "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        },
+        {
+          "formId": 2,
+          "form": "ішінен",
+          "feats": "Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 65,
+      "lemma": "сол",
+      "freq": 1,
+      "pos": "DET",
+      "pos_finegrained": "det",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "сол",
+          "feats": "PronType=Dem",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 66,
+      "lemma": "жақ",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жақтағы",
+          "feats": "Case=Loc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 67,
+      "lemma": "мұнара",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "мұнара",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 68,
+      "lemma": "лифт",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "лифт",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 69,
+      "lemma": "арқылы",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "арқылы",
+          "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 70,
+      "lemma": "жоғары",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жоғары",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 71,
+      "lemma": "көтер",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "көтеріліп",
+          "feats": "Aspect=Perf|VerbForm=Conv",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 72,
+      "lemma": "қала",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қаланы",
+          "feats": "Case=Acc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 73,
+      "lemma": "биік",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "биіктен",
+          "feats": "Case=Abl",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 74,
+      "lemma": "тамаша",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "тамашалауға",
+          "feats": "Case=Dat|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 75,
+      "lemma": "бол",
+      "freq": 1,
+      "pos": "AUX",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "болады",
+          "feats": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 76,
+      "lemma": "Атап",
+      "freq": 1,
+      "pos": "X",
+      "pos_finegrained": "x",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Атап",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 77,
+      "lemma": "айт",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "айтқанда",
+          "feats": "Tense=Past|VerbForm=Part",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 78,
+      "lemma": "картоп",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "картоп",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 79,
+      "lemma": "қор",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қоры",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 80,
+      "lemma": "380",
+      "freq": 1,
+      "pos": "NUM",
+      "pos_finegrained": "num",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "380",
+          "feats": "NumType=Card",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 81,
+      "lemma": "мың",
+      "freq": 3,
+      "pos": "NUM",
+      "pos_finegrained": "num",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "мың",
+          "feats": "NumType=Card",
+          "freq": 3
+        }
+      ]
+    },
+    {
+      "lemmaId": 82,
+      "lemma": "тоннан",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "тоннаны",
+          "feats": "Case=Acc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 83,
+      "lemma": "құра",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "құрайды",
+          "feats": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 84,
+      "lemma": "ерте",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "ерте",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 85,
+      "lemma": "ег",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "егін",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 86,
+      "lemma": "болжам",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "болжамы",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 87,
+      "lemma": "170",
+      "freq": 1,
+      "pos": "NUM",
+      "pos_finegrained": "num",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "170",
+          "feats": "NumType=Card",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 88,
+      "lemma": "тонна",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "тоннадан",
+          "feats": "Case=Abl",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 89,
+      "lemma": "аса",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "асады",
+          "feats": "Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 90,
+      "lemma": ";",
+      "freq": 1,
+      "pos": "PUNCT",
+      "pos_finegrained": "sent",
+      "forms": [
+        {
+          "formId": 1,
+          "form": ";",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 91,
+      "lemma": "32",
+      "freq": 1,
+      "pos": "NUM",
+      "pos_finegrained": "num",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "32",
+          "feats": "NumType=Card",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 92,
+      "lemma": "тон",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "тонна",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 93,
+      "lemma": "қырыққабат",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қырыққабат",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 94,
+      "lemma": "сақта",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "сақталуда",
+          "feats": "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Pass",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 95,
+      "lemma": "бұл",
+      "freq": 1,
+      "pos": "DET",
+      "pos_finegrained": "det",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Бұл",
+          "feats": "PronType=Dem",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 96,
+      "lemma": "олқылық",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "олқылықтың",
+          "feats": "Case=Gen",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 97,
+      "lemma": "орнын",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "орнын",
+          "feats": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 98,
+      "lemma": "толтыр",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "толтыру",
+          "feats": "Case=Nom|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 99,
+      "lemma": "мақсат",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "мақсатында",
+          "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 100,
+      "lemma": "солтүстік",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Солтүстік",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 101,
+      "lemma": "көлік",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "көлік",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 102,
+      "lemma": "прокуратура",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "прокуратурасы",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 103,
+      "lemma": "халықаралық",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Халықаралық",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 104,
+      "lemma": "медиация",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "медиация",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 105,
+      "lemma": "орталық",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "орталығы",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 106,
+      "lemma": "РҚБ",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "РҚБ",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 107,
+      "lemma": "СҚО",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "СҚО",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 108,
+      "lemma": "алтын",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Алтын",
+          "feats": "Case=Nom|Gender=Masc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 109,
+      "lemma": "би",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "би",
+          "feats": "Case=Nom|Gender=Masc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 110,
+      "lemma": "Бесембаев",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Бесембаевамен",
+          "feats": "Case=Ins|Gender=Masc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 111,
+      "lemma": "меморанду",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "меморандумға",
+          "feats": "Case=Dat",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 112,
+      "lemma": "отыр",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "отырды",
+          "feats": "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 113,
+      "lemma": "сонымен",
+      "freq": 1,
+      "pos": "PRON",
+      "pos_finegrained": "prn",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "Сонымен",
+          "feats": "Case=Ins|PronType=Dem",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 114,
+      "lemma": "қатар",
+      "freq": 1,
+      "pos": "ADP",
+      "pos_finegrained": "post",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қатар",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 115,
+      "lemma": "2022",
+      "freq": 1,
+      "pos": "NUM",
+      "pos_finegrained": "num",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "2022",
+          "feats": "NumType=Ord",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 116,
+      "lemma": "қыркүйек",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қыркүйегінен",
+          "feats": "Case=Abl|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 117,
+      "lemma": "баста",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "бастап",
+          "feats": "Aspect=Perf|VerbForm=Conv",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 118,
+      "lemma": "кейбір",
+      "freq": 1,
+      "pos": "DET",
+      "pos_finegrained": "det",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "кейбір",
+          "feats": "PronType=Tot",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 119,
+      "lemma": "сақтандыру",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "сақтандыру",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 120,
+      "lemma": "нарық",
+      "freq": 2,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "нарығын",
+          "feats": "Case=Acc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 2
+        }
+      ]
+    },
+    {
+      "lemmaId": 121,
+      "lemma": "бағалы",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "бағалы",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 122,
+      "lemma": "қағаз",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "қағаздар",
+          "feats": "Case=Nom|Number=Plur",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 123,
+      "lemma": "ретте",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "реттеу",
+          "feats": "Case=Nom|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 124,
+      "lemma": "дамыт",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "дамыту",
+          "feats": "Case=Nom|VerbForm=Ger",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 125,
+      "lemma": "ҚР",
+      "freq": 1,
+      "pos": "PROPN",
+      "pos_finegrained": "np",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "ҚР",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 126,
+      "lemma": "аяыс",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "аясында",
+          "feats": "Case=Loc|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 127,
+      "lemma": "өмірд",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "өмірді",
+          "feats": "Case=Acc",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 128,
+      "lemma": "сақтандыр",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "сақтандырудың",
+          "feats": "Case=Gen",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 129,
+      "lemma": "жаңа",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "жаңа",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 130,
+      "lemma": "әлеуметтік",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "әлеуметтік",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 131,
+      "lemma": "маңызды",
+      "freq": 1,
+      "pos": "ADJ",
+      "pos_finegrained": "adj",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "маңызды",
+          "feats": null,
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 132,
+      "lemma": "өнім",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "өнімі",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 133,
+      "lemma": "бірлес",
+      "freq": 1,
+      "pos": "VERB",
+      "pos_finegrained": "v",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "бірлескен",
+          "feats": "Tense=Past|VerbForm=Part",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 134,
+      "lemma": "зейнетақ",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "зейнетақы",
+          "feats": "Case=Nom",
+          "freq": 1
+        }
+      ]
+    },
+    {
+      "lemmaId": 135,
+      "lemma": "аннуитет",
+      "freq": 1,
+      "pos": "NOUN",
+      "pos_finegrained": "n",
+      "forms": [
+        {
+          "formId": 1,
+          "form": "аннуитеті",
+          "feats": "Case=Nom|Number[psor]=Plur,Sing|Person[psor]=3",
+          "freq": 1
+        }
+      ]
+    }
+  ]
+}
